@@ -1,0 +1,29 @@
+{
+  "name": "json5-jest",
+  "version": "1.0.0",
+  "description": "jest json5 transformer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyosukeCla/json5-jest.git"
+  },
+  "keywords": [
+    "json5",
+    "jest"
+  ],
+  "author": "RyosukeCla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyosukeCla/json5-jest/issues"
+  },
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 2.x"
+  },
+  "dependencies": {
+    "json5": "^1.0.1"
+  }
+}
