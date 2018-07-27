@@ -1,6 +1,6 @@
 {
   "name": "json5-jest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jest json5 transformer",
   "main": "index.js",
   "scripts": {
