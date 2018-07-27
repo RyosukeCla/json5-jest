@@ -1,4 +1,4 @@
-# json5-jest [![json5-jest](https://img.shields.io/npm/v/json5-jest.svg?longCache=true)](https://www.npmjs.com/package/json5-jest)
+# json5-jest [![json5-jest](https://img.shields.io/npm/v/json5-jest.svg?longCache=true)](https://www.npmjs.com/package/json5-jest) [![build status](https://travis-ci.org/RyosukeCla/json5-jest.svg?branch=master)](https://travis-ci.org/RyosukeCla/json5-jest)
 > jest json5 transformer
 
 ## Installation
