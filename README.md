@@ -31,3 +31,6 @@ module.exports = {
 
 ## Licence
 MIT
+
+## Contributers
+- [@MaxMellon](https://github.com/MaxMEllon)
