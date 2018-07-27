@@ -11,7 +11,7 @@ Please append to package.json
 ```json
 "jest": {
   "transform": {
-    "^.+\\.json5?$": "json5-jest",
+    "^.+\\.json5?$": "json5-jest"
   }
 }
 ```
