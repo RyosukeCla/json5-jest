@@ -1,0 +1,9 @@
+{
+  "name": "json5-jest",
+  "desc": "jest json5 transformer",
+  "auther": {
+    "name": "Ryosuke Suzuki",
+    "github": "@RyosukeCla",
+    "twitter": "@GentleClarinet"
+  }
+}
