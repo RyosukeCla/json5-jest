@@ -1,3 +1,7 @@
+ import profile5 from './profile.json5'
+ import profile from './profile.json'
+
+
 const expectedProfile = {
   name: 'json5-jest',
   desc: 'jest json5 transformer',
@@ -9,11 +13,9 @@ const expectedProfile = {
 }
 
 test("should require json5", () => {
-  const profile = require('./profile.json5');
-  expect(profile).toEqual(expectedProfile)
+  expect(profile5).toEqual(expectedProfile)
 });
 
 test("should require json", () => {
-  const profile = require('./profile.json');
   expect(profile).toEqual(expectedProfile)
 });

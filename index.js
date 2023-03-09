@@ -1,5 +1,5 @@
-const json5 = require("json5");
+import json5 from 'json5'
 
-module.exports = {
-  process: src => `module.exports = ${JSON.stringify(json5.parse(src))};`
-};
+export const out = { process: (src) => JSON.stringify(json5.parse(src)) }
+
+export default out

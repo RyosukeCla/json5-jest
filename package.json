@@ -1,8 +1,9 @@
 {
   "name": "json5-jest",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "jest json5 transformer",
   "main": "index.js",
+  "type":"module", 
   "scripts": {
     "test": "jest"
   },
@@ -14,7 +15,7 @@
     "json5",
     "jest"
   ],
-  "author": "RyosukeCla",
+  "contributors": ["RyosukeCla", "Duke"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RyosukeCla/json5-jest/issues"
