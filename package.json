@@ -1,6 +1,6 @@
 {
-  "name": "json5-jest",
-  "version": "2.0.1",
+  "name": "json5-jest-new",
+  "version": "2.0.2",
   "description": "jest json5 transformer",
   "main": "index.js",
   "type":"module", 
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyosukeCla/json5-jest.git"
+    "url": "git+https://github.com/Duke242/json5-jest.git"
   },
   "keywords": [
     "json5",
@@ -18,7 +18,7 @@
   "contributors": ["RyosukeCla", "Duke"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RyosukeCla/json5-jest/issues"
+    "url": "https://github.com/Duke242/json5-jest/issues"
   },
   "engines": {
     "node": ">= 6.9.0",
