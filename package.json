@@ -1,11 +1,14 @@
 {
   "name": "json5-jest",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "jest json5 transformer",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RyosukeCla/json5-jest.git"
@@ -24,9 +27,12 @@
     "npm": ">= 2.x"
   },
   "dependencies": {
-    "json5": "^1.0.1"
+    "json5": "^2.2.3"
+  },
+  "peerDependencies": {
+    "jest": ">= 28"
   },
   "devDependencies": {
-    "jest": "^23.4.1"
+    "jest": "^28"
   }
 }
